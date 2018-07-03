@@ -1,0 +1,13 @@
+
+Gsquid:S1481")Remove this unused "name" local variable.(ñãˆŞ8‘•ÊÅ,
+Isquid:S1481"+Remove this unused "gender" local variable.(ö¯±û8‘•ÊÅ,
+Xsquid:S1854":Remove this useless assignment to local variable "gender".(ö¯±û8‘•ÊÅ,
+Zsquid:S1854"<Remove this useless assignment to local variable "birthday".(«ñÙ›8‘•ÊÅ,
+^squid:S1854 ";Remove this useless assignment to local variable "address".(ÿÆ«Õúÿÿÿÿ8‘•ÊÅ,
+Ksquid:S1481"-Remove this unused "birthday" local variable.(«ñÙ›8‘•ÊÅ,
+[squid:S1854"8Remove this useless assignment to local variable "cmnd".(”¥²Ñşÿÿÿÿ8‘•ÊÅ,
+Qsquid:S1068"3Remove this unused "employeeService" private field.(ŞÈ8Çö‹ÊÅ,
+Lsquid:S1481")Remove this unused "cmnd" local variable.(”¥²Ñşÿÿÿÿ8‘•ÊÅ,
+Osquid:S1481 ",Remove this unused "address" local variable.(ÿÆ«Õúÿÿÿÿ8‘•ÊÅ,
+dsquid:S1192&"FDefine a constant instead of duplicating this literal "phone" 3 times.(ÿê•ó8•ò´ÊÅ,
+Vsquid:S1854"8Remove this useless assignment to local variable "name".(ñãˆŞ8‘•ÊÅ,

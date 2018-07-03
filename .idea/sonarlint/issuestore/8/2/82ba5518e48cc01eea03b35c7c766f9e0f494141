@@ -1,0 +1,5 @@
+
+esquid:S1854£"ARemove this useless assignment to local variable "groupFormater".(ßÚ¬¨ùÿÿÿÿ8òª ÉÅ,
+«%squid:RedundantThrowsDeclarationCheck?"sRemove the declaration of thrown exception 'org.springframework.beans.BeansException' which is a runtime exception.(¯¶…œ8£ü†ÈÅ,
+Vsquid:S1481£"2Remove this unused "groupFormater" local variable.(ßÚ¬¨ùÿÿÿÿ8òª ÉÅ,
+squid:UselessImportCheck"_Remove this unused import 'org.springframework.web.multipart.commons.CommonsMultipartResolver'.(ˆäÀûÿÿÿÿ8„ë ÉÅ,
